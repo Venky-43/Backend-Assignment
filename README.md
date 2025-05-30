@@ -24,49 +24,8 @@ This is a Django-powered backend for an Order Management System, designed to man
 
 ---
 
-## 📁 Folder Structure
-
-ChatGPT
-Saved memory full
-You said:
-backend_assignment.zip
-Zip Archive
-Add read.me 
-ChatGPT said:
-To add a README.md file for your backend_assignment.zip, I’ll first need to know a few key details about the project:
-
-Please answer the following:
-
-Project Name: What is the title of this backend project?
-
-Tech Stack: What technologies are used (e.g., Python, Django, Node.js, MySQL)?
-
-Purpose: What does the backend project do?
-
-How to Run: Instructions for setting up and running the project locally.
-
-API Details: Does it contain any APIs? If yes, should they be documented?
-
-Author or Team Info (Optional): Your name or contributors to mention?
-
-Once you provide this information, I will generate a complete README.md file for you.
-
-You said:
-Give me readme file for my above zip file project
-ChatGPT said:
-Your project appears to be a Django-based backend application named order_mgmt. It includes apps like entries, and files such as models.py, views.py, serializers.py, and urls.py. There’s already a README.md file, but I can help you rewrite or enhance it.
-
-Here’s a generated README.md based on the structure:
-
-📄 README.md
-# Order Management Backend (Django)
-
-This is a Django-based backend project for managing orders, including API support for handling entries.
-
 ## 📦 Project Structure
-
-order_mgmt/
-├── entries/ # Django app for order entries
+tries/ # Django app for order entries
 │ ├── admin.py
 │ ├── apps.py
 │ ├── models.py
@@ -132,7 +91,7 @@ You can test these using tools like Postman or cURL.
 🧪 Running Tests
 python manage.py test
 👤 Author
-Your Name – [your-email@example.com]
+kothapalli Venkanna Babu– [venkannababukothapalli716@gmail.com]
 
 📃 License
 This project is licensed under the MIT License.
