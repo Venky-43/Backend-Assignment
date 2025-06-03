@@ -1,0 +1,6 @@
+Django
+djangorestframework
+python-dotenv
+requests
+requests-oauthlib
+djangorestframework-simplejwt
